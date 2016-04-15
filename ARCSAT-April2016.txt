@@ -1,0 +1,65 @@
+April 14, 2016  
+Sunset at 7:33PM, evening twilight ends at 8:59PM
+Sunrise at 6:33AM,   morning twilight starts at 5:07AM
+
+EXORs
+VYTau until about 8:40PM (ditto for UZTau and DRTau)
+iPTF15af   Sunset to 8:50PM
+J06   start before 9:10PM
+PVCep  4AM to Sunrise
+A15qi   5AM to Sunrise
+
+FUORs
+RMon   Sunset to 9:30AM
+OOSer  3AM to Sunrise
+Parsamian21  3:30AM to Sunrise
+V1515Cyg   3:30AM to Sunrise
+V1057Cyg  4AM to Sunrise
+V2495Cyg   3:30AM to Sunrise
+V1331Cyg  3:30AM to Sunrise
+V1735Cyg   4:30AM to Sunrise
+V733Cep  5AM to Sunrise
+
+StarForming - under ARCSAT-objects...
+NAPG-L, A, …   3:30AM to Sunrise
+Cone   Sunset to 9:15PM (can observe to alomost 10PM if started by 9:15PM)
+M81 and M82   Sunset to 1AM
+M51   9PM to 5AM
+M101  9PM to 5AM
+
+APOGEE2-MassiveStars
+M4-18  Sunset to 8:50PM
+BD+48-1220   Sunset to 9:10PM
+The remaining ones after 3AM, most after 4AM or 5AM
+
+SN-Impostors
+J0909  Sunset to midnight
+SN2000ch  Sunset to 1AM
+J1221  9:30PM-2AM
+J1230  9PM-3AM
+SN2000ch  Sunset to 1AM
+J1235  9PM to 3AM
+J1310  9:30PM to 3AM
+J1321  10PM to 4AM
+J1516  11PM to 5AM
+J1521  1AM to 4AM
+
+Oph fields  2:30AM to 4:30AM (can go to 5AM if already started)
+
+NOph2015  4AM to Sunrise
+RSOph  3AM to Sunrise
+V5558Sgr   4AM to Sunrise
+V5588Sgr  4:30AM to Sunrise
+NSgr2015  5AM to Sunrise
+NSgr2015No2  5:15AM to Sunrise  [minimum airmass ~2.2]
+NCyg2014   3:45AM to Sunrise
+NDel2013   4AM to Sunrise
+
+MN-WMD-LBV-catalog
+MN68 and all targets with numbers greater than 68 in the list   after 4AM
+HD168607   4AM to Sunrise
+from MN80 higher, after 3:30AM
+Gal024.73   important target to start monitoring
+Gal026.47  ditto
+MN100 ditto
+MN101  ditto...
